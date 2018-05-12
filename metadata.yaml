@@ -1,0 +1,29 @@
+_repo: Salta_40358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dávalos, Juan Carlos
+    alias: Davalos, Juan Carlos
+    birthdate: 1887
+    deathdate: 1959
+    gutenberg_agent_id: '40567'
+    url: http://www.gutenberg.org/2009/agents/40567
+description: ''
+gutenberg_issued: '2012-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40358'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salta (Argentina)'
+- !lcc 'F2801'
+tableOfContents: La ciudad -- Los campos -- Historietas y cuentos -- Humorismos y
+  filosofias.
+title: Salta
+url: http://www.gutenberg.org/ebooks/40358
