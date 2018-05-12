@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40567'
     url: http://www.gutenberg.org/2009/agents/40567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40358#Salta
 gutenberg_issued: '2012-07-28'
 gutenberg_type: Text
 identifiers:
